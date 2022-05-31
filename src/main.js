@@ -17,6 +17,8 @@ import uuid from '@estudioliver/vue-uuid-v4'
 // import { AudioPlayerOption } from 'vue3-audio-player'
 // import AudioPlayer from 'vue3-audio-player'
 import 'vue3-audio-player/dist/style.css'
+// import Chart from 'chart.js'
+// Vue.use(Chart)
 
 Vue.use(uuid)
 // Vue.use(AudioPlayerOption)
